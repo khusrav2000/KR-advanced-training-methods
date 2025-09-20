@@ -1,4 +1,4 @@
-# Advanced Training Algorithms for Deep Neural Networks
+# Advanced Training Algorithms
 
 Реализация и исследование продвинутых алгоритмов обучения глубоких нейронных сетей в рамках курсовой работы.
 
